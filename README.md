@@ -1,2 +1,2 @@
 # git-github
-repositíro para a aula de githun
+repositório para a aula de githun
